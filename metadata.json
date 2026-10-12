@@ -1,0 +1,6 @@
+{
+  "name": "Virtual Patient Model & In-Silico Predictive Care Twin",
+  "description": "Clinical digital twin simulation platform featuring multi-organ synthetic physiology, continuous telemetry streams, Gemini-powered AI diagnostic insights, and in-silico predictive care trajectory modeling.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
